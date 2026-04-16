@@ -27,5 +27,5 @@ El notebook incluye:
 ## 📎 Archivos
 - `analisis_eph_argentina.ipynb`: desarrollo completo del trabajo
 - `enunciado_eph`: consigna del trabajo práctico
-- `usu_individual_T325`: base de datos
-- `EPH_registro_3T2025`: información detallada de los campos de la base de datos
+- `usu_individual_T325.txt`: base de datos
+- `EPH_registro_3T2025.pdf`: información detallada de los campos de la base de datos
